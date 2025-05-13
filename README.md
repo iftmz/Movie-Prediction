@@ -12,12 +12,19 @@
 برای اجرای سیستم توصیه‌گر فیلم، شما به کتابخانه‌های Python زیر نیاز دارید:
 
 pandas
+
 numpy
+
 scikit-learn
+
 scipy
+
 matplotlib
+
 seaborn
+
 tqdm
+
 ## مجموعه داده‌ها
 این سیستم به دو فایل CSV نیاز دارد:
 
